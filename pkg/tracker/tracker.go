@@ -5,9 +5,9 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/prashantgupta24/activity-tracker/internal/pkg/handler"
-	"github.com/prashantgupta24/activity-tracker/internal/pkg/logging"
-	"github.com/prashantgupta24/activity-tracker/pkg/system"
+	"github.com/theidexisted/activity-tracker/internal/pkg/handler"
+	"github.com/theidexisted/activity-tracker/internal/pkg/logging"
+	"github.com/theidexisted/activity-tracker/pkg/system"
 )
 
 const (

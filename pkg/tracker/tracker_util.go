@@ -3,8 +3,8 @@ package tracker
 import (
 	"time"
 
-	"github.com/prashantgupta24/activity-tracker/internal/pkg/handler"
-	"github.com/prashantgupta24/activity-tracker/pkg/activity"
+	"github.com/theidexisted/activity-tracker/internal/pkg/handler"
+	"github.com/theidexisted/activity-tracker/pkg/activity"
 	log "github.com/sirupsen/logrus"
 )
 

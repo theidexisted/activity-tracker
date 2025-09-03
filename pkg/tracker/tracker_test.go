@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/prashantgupta24/activity-tracker/internal/pkg/handler"
-	"github.com/prashantgupta24/activity-tracker/pkg/activity"
-	"github.com/prashantgupta24/activity-tracker/pkg/system"
+	"github.com/theidexisted/activity-tracker/internal/pkg/handler"
+	"github.com/theidexisted/activity-tracker/pkg/activity"
+	"github.com/theidexisted/activity-tracker/pkg/system"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
